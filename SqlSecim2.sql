@@ -1,0 +1,1 @@
+SELECT personel_id, ad_soyad, departman, maas FROM personel
