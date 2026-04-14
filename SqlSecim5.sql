@@ -1,0 +1,1 @@
+SELECT DISTINCT departman as "BÖLÜM" FROM personel;

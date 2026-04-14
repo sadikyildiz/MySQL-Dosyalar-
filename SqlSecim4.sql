@@ -1,0 +1,1 @@
+SELECT DISTINCT departman FROM personel;
