@@ -1,0 +1,1 @@
+SELECT * FROM personel WHERE giris_tarihi BETWEEN "2021-01-01" and "2021-12-31";

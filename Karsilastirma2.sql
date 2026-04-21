@@ -1,0 +1,1 @@
+select * FROM personel where cinsiyet="E";

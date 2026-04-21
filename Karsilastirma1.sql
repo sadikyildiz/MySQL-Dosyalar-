@@ -1,0 +1,1 @@
+select * FROM personel where departman="Bilişim Teknolojileri";

@@ -1,0 +1,1 @@
+select * FROM personel where giris_tarihi>="2018-01-01";
