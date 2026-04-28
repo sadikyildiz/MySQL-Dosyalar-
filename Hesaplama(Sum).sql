@@ -1,0 +1,1 @@
+select sum(maas) as "Toplam Maaş" from personel

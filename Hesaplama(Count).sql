@@ -1,0 +1,1 @@
+select count(personel_id) as "Kadın Personel Sayısı" from personel where cinsiyet="K"

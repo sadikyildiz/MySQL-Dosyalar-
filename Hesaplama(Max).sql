@@ -1,0 +1,1 @@
+select max(maas) as "En Yüksek Maaş" from personel

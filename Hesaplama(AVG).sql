@@ -1,0 +1,1 @@
+select avg(maas) as "Erkek Çalışanların Ortalama Maaşı" from personel where cinsiyet="E"

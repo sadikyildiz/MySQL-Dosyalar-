@@ -1,0 +1,1 @@
+select min(maas) as "En Düşük Kadın Çalışan Maaşı" from personel where cinsiyet="K"
