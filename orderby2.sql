@@ -1,0 +1,1 @@
+select ad_soyad, departman, maas from personel order by maas desc

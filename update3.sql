@@ -1,0 +1,1 @@
+update personel set departman="Bilgi Teknolojileri" where departman="Bilişim Teknolojileri"

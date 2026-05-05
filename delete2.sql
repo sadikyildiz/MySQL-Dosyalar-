@@ -1,0 +1,1 @@
+delete from personel where departman="Üretim"

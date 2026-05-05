@@ -1,0 +1,1 @@
+update personel set maas=maas + (maas*20/100) where personel_id

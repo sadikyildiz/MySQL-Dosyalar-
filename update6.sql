@@ -1,0 +1,1 @@
+update personel set cinsiyet="Erkek" where cinsiyet="E"

@@ -1,0 +1,1 @@
+update personel set maas=9500 where personel_id=8

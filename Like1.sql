@@ -1,0 +1,1 @@
+select * from personel where ad_soyad LIKE "A%"

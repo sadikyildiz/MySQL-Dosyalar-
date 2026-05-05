@@ -1,0 +1,1 @@
+update personel set maas=maas + (maas*5/100) where maas<=10000

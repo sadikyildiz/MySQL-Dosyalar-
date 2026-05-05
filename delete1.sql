@@ -1,0 +1,1 @@
+delete from personel where personel_id=6
