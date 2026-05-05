@@ -1,0 +1,1 @@
+select * from kitaplar where tur_id=(select tur_id from kitap_turleri where tur_adi="Roman")
